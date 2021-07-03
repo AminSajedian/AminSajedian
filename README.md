@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammadamin Sajedian
-- 👀 I’m interested in full stack web development and playing Basketball.
+- 👀 I’m interested in Web development and playing Basketball.
 - 🌱 I’m currently learning MERN full stack web developer through strive.school.
 - 📫 How to reach me: mohammadsajedian@gmail.com
 - Full Stack Developer Progress: https://msajedian.github.io/
