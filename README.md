@@ -1,7 +1,54 @@
-- 👋 Hi, I’m Mohammadamin Sajedian.
+
+### <h1> Hi, I'm Mohammadamin! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+
+
+
+
+
+</p>
+
 - 👀 I’m interested in Coding and Playing Basketball.
-- 👨‍🎓 Graduated from Strive School as a MERN Full Stack Web Developer.
-- 🌱 Willing to learn other programming languages.
-- 🔭 Feel free to take a look at my project: "TopEdu" https://topedu.vercel.app/
-- 📫 How to reach me: mohammadsajedian@gmail.com
-- I Like these: ![HTML](https://camo.githubusercontent.com/6dd33307985a08dbef2d2478465fa92f65bd78e45395693e9750582b1cd88055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) ![CSS](https://camo.githubusercontent.com/404c4161e21391af6d3d3d0585e8f6449f0f0875c1239c6bc363d7dcd46d7b6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465) ![Bootstrap](https://camo.githubusercontent.com/a75b02799d851a916c5f5343a61d19a45015eaa277580f99009904d03a4ee005/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465) ![JavaScript](https://camo.githubusercontent.com/015c32260d0323c7700acd164475eec6d492a832aba6dc1856353455335aa3ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d323232) ![React](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465) ![Nodejs](https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+
+- 👨‍🎓 Freshly graduated from Strive School as a **MERN Full Stack Developer**
+
+- 🔭 Feel free to take a look at **my capstone project**: "TopEdu" <a color="white" href="https://topedu.vercel.app"> <img width = '22px' src='https://res.cloudinary.com/msajedian/image/upload/v1634834793/l38fvhkp1eskhisuphgt.png'/></a>
+
+- 🌱 Willing to learn **other programming languages**
+
+- 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/mohammadamin-sajedian-6a001471/'> <img paddingTop='25px' width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> or <a href="mailto:mohammadsajedian@gmail.com">📧</a>
+
+
+##  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ 
+<span>
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> 
+ <img width ='32px' fill='white' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
+</span>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/mohammadamin-sajedian-6a001471'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> or <a href="mailto:mohammadsajedian@gmail.com">📧</a>
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MSajedian&count_private=true&show_icons=true&theme=light" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSajedian&theme=light" />
+</a>
