@@ -12,7 +12,7 @@
 
 - 👨‍🎓 Freshly graduated from Strive School as a **MERN Full Stack Developer**
 
-- 🔭 Feel free to take a look at **my capstone project**: "TopEdu" <a color="white" href="https://topedu.vercel.app"> <img width = '22px' src='https://res.cloudinary.com/msajedian/image/upload/v1634834793/l38fvhkp1eskhisuphgt.png'/></a>
+- 🔭 Feel free to take a look at **my capstone project**: TopEdu <a color="white" href="https://topedu.vercel.app"> <img width = '22px' src='https://res.cloudinary.com/msajedian/image/upload/v1634834793/l38fvhkp1eskhisuphgt.png'/></a>
 
 - 🌱 Willing to learn **other programming languages**
 
