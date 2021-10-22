@@ -14,7 +14,6 @@
 
 - 🔭 Feel free to take a look at **my capstone project**: TopEdu <a href="https://topedu.vercel.app"> <img width = '22px'  src='https://github.com/MSajedian/Topedu-Reactjs/blob/main/public/topedu-logo.svg'/></a>
 
-
 - 🌱 Willing to learn **other programming languages**
 
 - 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/mohammadamin-sajedian-6a001471/'> <img paddingTop='25px' width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> or ***Email*** <a href="mailto:mohammadsajedian@gmail.com"><img paddingTop='25px' width = '22px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/></a>
