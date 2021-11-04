@@ -48,9 +48,16 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MSajedian&count_private=true&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSajedian&theme=light" />
+</a> -->
+
+<a href="https://github.com/MSajedian/MSajedian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSajedian&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MSajedian/MSajedian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MSajedian&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
