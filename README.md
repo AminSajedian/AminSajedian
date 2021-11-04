@@ -43,7 +43,7 @@
 ***LinkedIn***  <a href = 'https://www.linkedin.com/in/mohammadamin-sajedian-6a001471'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> & ***Email*** <a href="mailto:mohammadsajedian@gmail.com"><img paddingTop='25px' width = '22px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/></a>
 
 
-<h2> My GitHub Stats <img src='https://https://www.nicepng.com/png/detail/816-8166864_email-icons-business-card-email-vector-svg.png' width='32px'> </h2>
+## &#x1f4c8; GitHub Stats
 
 
 
