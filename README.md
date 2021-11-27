@@ -37,6 +37,10 @@
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
  <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/mongoosejs.png'> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/react-bootstrap.png'> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/ci-cd.png'> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/jest.png'> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/restapi.png'> 
 </span>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
