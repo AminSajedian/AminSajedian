@@ -8,7 +8,7 @@
 
 </p>
 
-- 👀 I’m interested in Coding and Playing Basketball.
+- 👀 I’m interested in Coding and Cycling.
 
 - 👨‍🎓 Freshly graduated from Strive School as a **Full Stack Web Developer**
 
