@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in Coding and Cycling.
 
-- 👨‍🎓 Freshly graduated from Strive School as a **Full Stack Web Developer**
+- 👨‍🎓 I’m graduated from Epicode (fka Strive School) as a **Full Stack Web Developer**
 
 - 🔭 Feel free to take a look at **my capstone project**: TopEdu <a href="https://topedu.vercel.app"> <img width = '22px'  src='https://github.com/MSajedian/Topedu-Reactjs/blob/main/public/topedu-logo.svg'/></a>
 
