@@ -12,9 +12,7 @@
 
 - 👨‍🎓 I’m graduated from Epicode (fka Strive School) as a **Full Stack Web Developer**
 
-- 🔭 Feel free to take a look at **my capstone project**: <a href="https://topedu.vercel.app">TopEdu <img width = '22px'  src='https://github.com/MSajedian/Topedu-Reactjs/blob/main/public/topedu-logo.svg'/></a>
-
-- 🌱 Willing to learn **other programming languages**
+- 🔭 Feel free to take a look at **my capstone project**: <a href="https://topedu.vercel.app">***TopEdu*** <img width = '22px'  src='https://github.com/MSajedian/Topedu-Reactjs/blob/main/public/topedu-logo.svg'/></a>
 
 - 📄 Want to know about my experiences: <a href="https://mohammad.vercel.app/">***My Portfolio*** <img paddingTop='25px' width = '22px' align= 'center' src="https://mohammad.vercel.app/favicon.ico"/></a>
 
