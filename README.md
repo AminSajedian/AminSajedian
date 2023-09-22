@@ -20,25 +20,25 @@
 ##  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px" height = "32px"> </h2>
  
 <span>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/next-js.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/mongoosejs.png'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/react-bootstrap.png'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/ci-cd.png'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/jest.png'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/restapi.png'> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="JavaScript"> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="ReactJS"> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/next-js.svg' alt="NextJS"> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg' alt="ExpressJS">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="NodeJS">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg' alt="MongoDB">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg' alt="PostgreSQL">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt="TypeScript">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg' alt="Redux"> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg' alt="Bootstrap">
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' alt="Github"> 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg' alt="Heroku"> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/mongoosejs.png' alt="MongooseJS"> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/react-bootstrap.png' alt="React Bootstrap"> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/ci-cd.png' alt="CI CD"> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/jest.png' alt="Jest"> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/restapi.png' alt="RestAPI"> 
 </span>
 
 <h2> Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px" height = "32px"> </h2>
