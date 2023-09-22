@@ -24,6 +24,7 @@
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+ <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/next-js.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
@@ -38,7 +39,6 @@
  <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/ci-cd.png'> 
  <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/jest.png'> 
  <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/restapi.png'> 
- <img width ='32px' src ='https://github.com/MSajedian/MSajedian/blob/main/icons/next-js.svg'> 
 </span>
 
 <h2> Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px" height = "32px"> </h2>
