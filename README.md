@@ -1,5 +1,5 @@
 
-### <h1> Hi, I'm Mohammadamin! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "32px" height = "32px"> </h1>
+### <h1> Hi, I'm Amin Sajedian! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "32px" height = "32px"> </h1>
 <p align='center'>
 
 
