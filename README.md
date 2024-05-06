@@ -14,7 +14,7 @@
 
 - 🔭 Feel free to take a look at **my capstone project**: <a href="https://topedu.vercel.app"><img width = '22px'  src='https://github.com/MSajedian/Topedu-Reactjs/blob/main/public/topedu-logo.svg'/> ***TopEdu***</a>
 
-- 📄 Want to know about my experiences: <a href="https://mohammad.vercel.app/"><img paddingTop='25px' width = '22px' align= 'center' src="https://mohammad.vercel.app/favicon.ico"/> ***My Portfolio***</a>
+- 📄 Want to know about my experiences: <a href="https://aminsajedian.vercel.app/"><img paddingTop='25px' width = '22px' align= 'center' src="https://aminsajedian.vercel.app/favicon.ico"/> ***My Portfolio***</a>
 
 
 ##  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px" height = "32px"> </h2>
@@ -43,7 +43,7 @@
 
 <h2> Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px" height = "32px"> </h2>
 
-<a href = 'https://www.linkedin.com/in/mohammadamin-sajedian'><img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> ***LinkedIn***</a> & <a href="mailto:mohammadsajedian@gmail.com"><img paddingTop='25px' width = '22px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/> ***Email***</a>
+<a href = 'https://www.linkedin.com/in/amin-sajedian/'><img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> ***LinkedIn***</a> & <a href="mailto:aminsajedian@gmail.com"><img paddingTop='25px' width = '22px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/> ***Email***</a>
 
 
 ## &#x1f4c8; GitHub Stats
