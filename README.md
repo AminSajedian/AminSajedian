@@ -1,5 +1,5 @@
 
-### <h1> Hi, I'm Mohammadamin Sajedian! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "32px" height = "32px"> </h1>
+### <h1> Hi, I'm Amin Sajedian! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "32px" height = "32px"> </h1>
 <p align='center'>
 
 
@@ -43,7 +43,7 @@
 
 <h2> Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px" height = "32px"> </h2>
 
-<a href = 'https://www.linkedin.com/in/mohammadamin-sajedian/'><img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> ***LinkedIn***</a> & <a href="mailto:aminsajedian@gmail.com"><img paddingTop='25px' width = '22px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/> ***Email***</a>
+<a href = 'https://www.linkedin.com/in/amin-sajedian/'><img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> ***LinkedIn***</a> & <a href="mailto:aminsajedian@gmail.com"><img paddingTop='25px' width = '22px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/> ***Email***</a>
 
 
 ## &#x1f4c8; GitHub Stats
